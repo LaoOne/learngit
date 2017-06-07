@@ -4,4 +4,8 @@ Git download on the day of 20170605.
 Git add this line
 add this line 17060622:55
 add this line 17060622:55-2
-add this line 17060622:55-master 
+<<<<<<< HEAD
+add this line 17060622:55-featurel 
+=======
+add this line 17060622:55-featurel
+>>>>>>> featurel
